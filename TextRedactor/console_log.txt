@@ -1,0 +1,247 @@
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7176
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5191
+[Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 31/08/2024 13:34:28 with the Post request. Text: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+[Information] [TextRedactor.Controllers.RedactController] User retrieved information about the service with the Get request
+[Information] [TextRedactor.Controllers.RedactController] User retrieved information about the service with the Get request
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 31/08/2024 14:02:06 with the Post request. Text: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 31/08/2024 14:03:53 with the Post request. Text: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7176
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5191
+[Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 31/08/2024 14:21:13 with the Post request. Text: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7176
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5191
+[Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7176
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5191
+[Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: https://localhost:7176
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:5191
+[Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:20:19 with the Post request. Body:  Return Value: 
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:22:24 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:22:35 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:22:40 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:23:38 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is?
+A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:24:55 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:27:26 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 01/09/2024 15:27:33 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[01/09/2024 15:32:01] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[01/09/2024 15:32:01] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[01/09/2024 15:32:01] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[01/09/2024 15:32:01] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[02/09/2024 18:39:57] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[02/09/2024 18:39:57] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[02/09/2024 18:39:57] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[02/09/2024 18:39:57] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[02/09/2024 18:40:21] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[02/09/2024 18:40:22] [Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 02/09/2024 18:40:22 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[02/09/2024 18:59:13] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[02/09/2024 18:59:13] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[02/09/2024 18:59:13] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[02/09/2024 18:59:13] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[02/09/2024 19:02:00] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[02/09/2024 19:02:00] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[02/09/2024 19:02:00] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[02/09/2024 19:02:00] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[02/09/2024 19:04:56] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[02/09/2024 19:04:56] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[02/09/2024 19:04:56] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[02/09/2024 19:04:56] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[02/09/2024 19:04:59] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[02/09/2024 19:04:59] [Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 02/09/2024 19:04:59 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[02/09/2024 19:05:07] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[02/09/2024 19:05:07] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[02/09/2024 19:05:07] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[02/09/2024 19:05:07] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[02/09/2024 19:05:11] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[02/09/2024 19:05:19] [Error] [Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware] An unhandled exception has occurred while executing the request.
+[02/09/2024 19:05:39] [Error] [Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware] An unhandled exception has occurred while executing the request.
+[03/09/2024 17:29:48] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[03/09/2024 17:29:48] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[03/09/2024 17:29:48] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[03/09/2024 17:29:48] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[03/09/2024 17:30:09] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[03/09/2024 17:33:20] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[03/09/2024 17:33:20] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[03/09/2024 17:33:20] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[03/09/2024 17:33:20] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[03/09/2024 17:33:25] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[03/09/2024 17:33:25] [Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 03/09/2024 17:33:25 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[03/09/2024 17:35:51] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[03/09/2024 17:35:51] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[03/09/2024 17:35:51] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[03/09/2024 17:35:51] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[03/09/2024 17:36:07] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[03/09/2024 17:36:20] [Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 03/09/2024 17:36:20 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[03/09/2024 17:59:36] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[03/09/2024 17:59:36] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[03/09/2024 17:59:36] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[03/09/2024 17:59:36] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[03/09/2024 17:59:45] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[03/09/2024 17:59:45] [Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 03/09/2024 17:59:45 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[03/09/2024 18:01:30] [Information] [TextRedactor.Controllers.RedactController] User retrieved information about the service with the Get request
+[03/09/2024 18:02:12] [Error] [TextRedactor.Controllers.RedactController] TextRedactor.ConfigurationExeption: Unable to load the redactions list
+   at TextRedactor.Service.Implamentation.RedactorUsingRegex.RedactText(String textToRedact) in E:\Job Hunting Projects\TextRedactor\TextRedactor\Service\Implamentation\RedactorUsingRegex.cs:line 20
+   at TextRedactor.Controllers.RedactController.Post() in E:\Job Hunting Projects\TextRedactor\TextRedactor\Controllers\RedactController.cs:line 36
+[03/09/2024 22:45:26] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[03/09/2024 22:45:26] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[03/09/2024 22:45:26] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[03/09/2024 22:45:26] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[03/09/2024 22:45:39] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[03/09/2024 22:45:39] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[03/09/2024 22:45:39] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[03/09/2024 22:45:39] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[04/09/2024 16:57:40] [Information] [Microsoft.Hosting.Lifetime] Now listening on: http://localhost:8080
+[04/09/2024 16:57:40] [Information] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+[04/09/2024 16:57:40] [Information] [Microsoft.Hosting.Lifetime] Hosting environment: Development
+[04/09/2024 16:57:40] [Information] [Microsoft.Hosting.Lifetime] Content root path: E:\Job Hunting Projects\TextRedactor\TextRedactor
+[04/09/2024 16:57:46] [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+[04/09/2024 16:57:47] [Error] [TextRedactor.Controllers.RedactController] TextRedactor.ConfigurationException: Unable to load the redactions list
+   at TextRedactor.Service.Implamentation.RedactorUsingRegex.RedactText(String textToRedact) in E:\Job Hunting Projects\TextRedactor\TextRedactor\Service\Implamentation\RedactorUsingRegex.cs:line 25
+   at TextRedactor.Controllers.RedactController.Post() in E:\Job Hunting Projects\TextRedactor\TextRedactor\Controllers\RedactController.cs:line 29
+[04/09/2024 16:59:59] [Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 04/09/2024 16:59:59 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
+[04/09/2024 17:00:07] [Information] [TextRedactor.Controllers.RedactController] User retrieved information about the service with the Get request
+[04/09/2024 17:00:25] [Information] [TextRedactor.Controllers.RedactController] User requsted redaction service at 04/09/2024 17:00:25 with the Post request. Body: A dog, a monkey or a dolphin are all mammals. A snake, however, is not a mammal, it is a reptile. Who can say what a DogSnake is? Return Value: A REDACTED, a monkey or a REDACTED are all mammals. A REDACTED, however, is not a REDACTED, it is a reptile. Who can say what a DogSnake is?
